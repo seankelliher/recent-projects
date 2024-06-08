@@ -1,11 +1,11 @@
 [![MIT License on GitHub](https://img.shields.io/github/license/seankelliher/recent-projects?style=flat-square)](/LICENSE.txt)
 ## Recent Projects
 
-Portfolio of recent projects built with Vue.js. <!-- [View working component](https://sean-kelliher-recent-projects.netlify.app). -->
+Portfolio of recent projects built with Vue.js. [View working component](https://sean-kelliher-recent-projects.netlify.app).
 
 ## Project Status
 
-Project meets general accessibility (WACG) and cross-browser requirements. More testing with a dedicated services (e.g., Sauce Labs) would be helpful if deploying to production.
+TESTING: Conducting cross browser and accessibility testing. <!-- Project meets general accessibility (WACG) and cross-browser requirements. More testing with a dedicated services (e.g., Sauce Labs) would be helpful if deploying to production. -->
 
 ## Project Screen Shots
 
