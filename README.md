@@ -5,7 +5,7 @@ Portfolio of recent projects built with Vue.js. [View working component](https:/
 
 ## Project Status
 
-TESTING: Conducting cross browser and accessibility testing. <!-- Project meets general accessibility (WACG) and cross-browser requirements. More testing with a dedicated services (e.g., Sauce Labs) would be helpful if deploying to production. -->
+Project meets general accessibility (WACG) and cross-browser requirements. More testing with a dedicated services (e.g., Sauce Labs) would be helpful if deploying to production.
 
 ## Project Screen Shots
 
