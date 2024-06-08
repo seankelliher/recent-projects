@@ -296,12 +296,12 @@ p {
 }
 
 p a {
-    color: #4e6629; /* S-40 */
-    text-decoration: none;
+    color: #45464f; /* NV-30 */
+    text-decoration: underline;
 }
 
 p a:hover {
-    text-decoration: underline;
+    color: #1a1b20; /* N-10 */
 }
 
 .notice-txt {
