@@ -1,7 +1,7 @@
 [![MIT License on GitHub](https://img.shields.io/github/license/seankelliher/recent-projects?style=flat-square)](/LICENSE.txt)
 ## Recent Projects
 
-Portfolio of recent projects built with Vue.js. [View working component](https://sean-kelliher-recent-projects.netlify.app).
+Portfolio of recent projects. [View working component](https://skelliher-recent.netlify.app).
 
 ## Project Status
 
